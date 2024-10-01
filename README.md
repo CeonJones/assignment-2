@@ -45,5 +45,5 @@ This project demonstrates a simple **stack implementation** using a **single lin
 - 5. Finding the Top Value of the Stack
 <img width="377" alt="Assignment_2 Screenshot 6" src="https://github.com/user-attachments/assets/fcbee73a-7382-422c-beaf-a00152af0a07">
 
-- 6. Calculating the Average of the Stack
+- 6. Displaying Stack
 <img width="260" alt="Assignment_2 Screenshot 7" src="https://github.com/user-attachments/assets/f87ebae1-3022-4b43-8f0f-7c8fe160f0bf">
