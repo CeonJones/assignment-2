@@ -39,7 +39,7 @@ This project demonstrates a simple **stack implementation** using a **single lin
 - 3. Displaying the Stack
 <img width="311" alt="Assignment_2 Screenshot 4" src="https://github.com/user-attachments/assets/682a8651-f959-4f7e-b3d3-cae7269859d4">
 
-- 4. Popping a Value from the Stack
+- 4. Finding top of stack
 <img width="435" alt="Assignment_2 Screenshot 5" src="https://github.com/user-attachments/assets/7a5de0e4-1630-4bdf-a4fe-7a759eb7a2c3">
 
 - 5. Finding the average value of the Stack
